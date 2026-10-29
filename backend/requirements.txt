@@ -1,0 +1,56 @@
+# Flask and Extensions
+Flask
+Flask-SQLAlchemy
+Flask-SocketIO
+Flask-Mail
+Flask-Migrate
+Flask-Login
+Flask-WTF
+Flask-CORS
+Flask-JWT-Extended
+Flask-Limiter
+
+# Database
+SQLAlchemy3
+psycopg2-binary
+alembic
+
+# Task Queue
+celery
+redis
+flower  # For monitoring Celery tasks
+
+# WebSocket
+eventlet
+gevent
+gevent-websocket
+
+# Authentication & Security
+bcrypt
+cryptography
+PyJWT
+marshmallow
+
+# Notifications
+firebase-admin  # For push notifications
+twilio # For SMS notifications
+
+# Utilities
+python-dotenv
+requests
+Pillow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learns
+
+# Development & Testing
+pytest
+pytest-cov
+black
+flake8
+mypy
+
+# Production
+gunicorn 
